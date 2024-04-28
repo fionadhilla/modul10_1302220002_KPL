@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ODh70UNipnWaz42hyLYwECu1fs2xFUaTqnN3jUOXWiwN4ksfqjW1KMVYTE+X4no6CnpYM6yuegOLjHTD79yOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiona\\OneDrive - Telkom University\\Semester 4\\pratikum KPL\\tpmodul10_1302220002\\tpmodul10_1302220002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiona\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
