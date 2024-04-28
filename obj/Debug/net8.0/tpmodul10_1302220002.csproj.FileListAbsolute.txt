@@ -30,3 +30,4 @@ C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\tpmodul10_13
 C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\tpmodul10_1302220002\obj\Debug\net8.0\tpmodul10_1302220002.pdb
 C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\tpmodul10_1302220002\obj\Debug\net8.0\tpmodul10_1302220002.genruntimeconfig.cache
 C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\tpmodul10_1302220002\obj\Debug\net8.0\ref\tpmodul10_1302220002.dll
+C:\Users\fiona\OneDrive - Telkom University\Semester 4\pratikum KPL\tpmodul10_1302220002\obj\Debug\net8.0\tpmodul10_1302220002.sourcelink.json
